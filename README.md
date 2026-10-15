@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CareerPath Planner
 React + Vite + TypeScript MVP. State is stored in localStorage; no backend or AI API.
 
@@ -9,3 +10,6 @@ React + Vite + TypeScript MVP. State is stored in localStorage; no backend or AI
 - Scheduling and leave logic: `src/utils/scheduler.ts`. Persistence and validation: `src/utils/storage.ts`.
 - Rule: topics are packed in order into days up to your daily minutes; a topic longer than the daily limit gets its own day. Leave days are skipped. Leave reschedules only pending tasks from today onward; completed topics keep their dates.
 - Not affiliated with TUF; original CareerPath branding.
+=======
+# careerpath-planner
+>>>>>>> 015a9fbbb61166d9b4308c24b78c375e69b50ebd
